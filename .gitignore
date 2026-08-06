@@ -1,0 +1,4 @@
+test/test_motion
+*.o
+*.pio
+.pio/
